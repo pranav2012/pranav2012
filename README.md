@@ -1,5 +1,6 @@
 ### Hey, there I'm Pranav - aka [pranav2012][website]👋
-[<img align="left" alt="pranav2012" width="280px" src="https://raw.githubusercontent.com/pranav2012/pranav2012/master/Github.png" />
+
+[<img align="left" alt="pranav2012" width="600px" src="https://raw.githubusercontent.com/pranav2012/pranav2012/master/Github.png" />][]
 
 <br />
 
