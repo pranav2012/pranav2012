@@ -1,5 +1,8 @@
 ### Hey, there I'm Pranav - aka [pranav2012][website]👋
 [<img align="left" alt="pranav2012" src="https://raw.githubusercontent.com/pranav2012/pranav2012/master/Github.png" />]
+
+<br />
+
 ## I'm Student, Developer, and Cyber Security enthusiast!
 - 🔭 I’m currently working on a [Project][website_Projects]!
 - 🌱 I’m currently learning everything 🤣
