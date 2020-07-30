@@ -1,6 +1,8 @@
 ### Hey, there I'm Pranav - aka [pranav2012][website]👋
 
-![pranav2012](https://raw.githubusercontent.com/pranav2012/pranav2012/master/Github.png?raw=true)
+<br />
+
+![pranav2012](https://raw.githubusercontent.com/pranav2012/pranav2012/master/Github.png)
 
 <br />
  
