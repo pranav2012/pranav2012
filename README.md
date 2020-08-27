@@ -9,8 +9,7 @@
  
 ## I'm Student, Developer, and Cyber Security enthusiast!
 - 🔭 I’m currently working on a [Project][website_Projects]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m currently learning everything
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Sleep and play Games
 
