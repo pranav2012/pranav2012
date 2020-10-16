@@ -15,7 +15,7 @@
 
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
 |-------------|-------------------|---|---|
-| [**Face Recogination**](https://github.com/pranav2012/FaceRecogination_Frontend) | [![GitHub issues](https://img.shields.io/github/issues/pranav2012/FaceRecogination_Frontend?color=green&logo=github&style=flat)](https://github.com/pranav2012/FaceRecogination_Frontend/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/pranav2012/FaceRecogination_Frontend?style=flat&logo=github)](https://github.com/vinitshahdeo/PortScanner/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/pranav2012/FaceRecogination_Frontend?style=flat&color=critical&logo=github)](https://github.com/pranav2012/FaceRecogination_Frontend/pulls?q=is%3Apr+is%3Aclosed)  |
+| [**Face Recogination**](https://github.com/pranav2012/FaceRecogination_Frontend) | [![GitHub issues](https://img.shields.io/github/issues/pranav2012/FaceRecogination_Frontend?color=green&logo=github&style=flat)](https://github.com/pranav2012/FaceRecogination_Frontend/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/pranav2012/FaceRecogination_Frontend?style=flat&logo=github)](https://github.com/pranav2012/FaceRecogination_Frontend/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/pranav2012/FaceRecogination_Frontend?style=flat&color=critical&logo=github)](https://github.com/pranav2012/FaceRecogination_Frontend/pulls?q=is%3Apr+is%3Aclosed)  |
 | [**My Portfolio Website**](https://github.com/pranav2012/MyPortfolio) | [![GitHub issues](https://img.shields.io/github/issues/pranav2012/MyPortfolio?color=green&logo=github&style=flat)](https://github.com/pranav2012/MyPortfolio/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/pranav2012/MyPortfolio?style=flat&logo=github)](https://github.com/pranav2012/MyPortfolio/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/pranav2012/MyPortfolio?style=flat&color=critical&logo=github)](https://github.com/pranav2012/MyPortfolio/pulls?q=is%3Apr+is%3Aclosed)   |
 
 <br />
@@ -43,7 +43,7 @@
 <br />
 <img align="left" alt="pranav2012's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pranav2012&show_icons=true&hide_border=true" />
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 ### Connect with me:
 
