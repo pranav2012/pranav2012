@@ -8,7 +8,7 @@
 
 <br />
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/pranav2012) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=pranav2012.visitor-badge)](https://github.com/pranav2012) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/pranav2012)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/pranav2012) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=pranav2012.visitor-badge)](https://github.com/pranav2012) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/pranav2012)
 
 <br />
 
@@ -16,7 +16,7 @@
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
 |-------------|-------------------|---|---|
 | [**Face Recogination**](https://github.com/pranav2012/FaceRecogination_Frontend) | [![GitHub issues](https://img.shields.io/github/issues/pranav2012/FaceRecogination_Frontend?color=green&logo=github&style=flat)](https://github.com/pranav2012/FaceRecogination_Frontend/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/pranav2012/FaceRecogination_Frontend?style=flat&logo=github)](https://github.com/vinitshahdeo/PortScanner/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/pranav2012/FaceRecogination_Frontend?style=flat&color=critical&logo=github)](https://github.com/pranav2012/FaceRecogination_Frontend/pulls?q=is%3Apr+is%3Aclosed)  |
-| [**My Portfolio Website**](https://github.com/pranav2012/MyPortfolio) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/Water-Monitoring-System?color=green&logo=github&style=flat)](https://github.com/pranav2012/MyPortfolio/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/pranav2012/MyPortfolio?style=flat&logo=github)](https://github.com/pranav2012/MyPortfolio/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/pranav2012/MyPortfolio?style=flat&color=critical&logo=github)](https://github.com/pranav2012/MyPortfolio/pulls?q=is%3Apr+is%3Aclosed)   |
+| [**My Portfolio Website**](https://github.com/pranav2012/MyPortfolio) | [![GitHub issues](https://img.shields.io/github/issues/pranav2012/MyPortfolio?color=green&logo=github&style=flat)](https://github.com/pranav2012/MyPortfolio/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/pranav2012/MyPortfolio?style=flat&logo=github)](https://github.com/pranav2012/MyPortfolio/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/pranav2012/MyPortfolio?style=flat&color=critical&logo=github)](https://github.com/pranav2012/MyPortfolio/pulls?q=is%3Apr+is%3Aclosed)   |
 
 <br />
 
