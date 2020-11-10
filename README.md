@@ -13,15 +13,15 @@
 
 <br />
 
-<div style="text-align:center"><img src="GitHub.png" width="500"/></div>
+<img src="GitHub.png" width="500"/>
 
 <br />
 
 
-|      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Forks :fire:  |
+|      Project :octocat:  |     Stars :star:   | Open PRs :bell:  | Forks :fire:  |
 |-------------|-------------------|---|---|
-| [**Face Recogination**](https://github.com/pranav2012/FaceRecogination_Frontend) | [![GitHub issues](https://img.shields.io/github/issues/pranav2012/FaceRecogination_Frontend?color=green&logo=github&style=flat)](https://github.com/pranav2012/FaceRecogination_Frontend/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/pranav2012/FaceRecogination_Frontend?style=flat&logo=github)](https://github.com/pranav2012/FaceRecogination_Frontend/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/pranav2012/FaceRecogination_Frontend?style=flat&color=critical&logo=github)](https://github.com/pranav2012/FaceRecogination_Frontend/pulls?q=is%3Apr+is%3Aclosed)  |
-| [**My Portfolio Website**](https://github.com/pranav2012/MyPortfolio) | [![GitHub issues](https://img.shields.io/github/issues/pranav2012/MyPortfolio?color=green&logo=github&style=flat)](https://github.com/pranav2012/MyPortfolio/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/pranav2012/MyPortfolio?style=flat&logo=github)](https://github.com/pranav2012/MyPortfolio/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/pranav2012/MyPortfolio?style=flat&color=critical&logo=github)](https://github.com/pranav2012/MyPortfolio/pulls?q=is%3Apr+is%3Aclosed)   |
+| [**PythonFest**](https://github.com/pranav2012/Python-fest2020) | [![GitHub Stars](https://img.shields.io/github/stars/pranav2012/Python-fest2020?color=green&logo=github&style=flat)](https://github.com/pranav2012/Python-fest2020/stargazers) | [![GitHub PRs](https://img.shields.io/github/issues-pr/pranav2012/Python-fest2020?style=flat&logo=github)](https://github.com/pranav2012/Python-fest2020/pulls)  | [![GitHub Forks](https://img.shields.io/github/forks/pranav2012/Python-fest2020?style=flat&logo=github)](https://github.com/pranav2012/Python-fest2020/network/members)  |
+| [**Linux Custom Scripts**](https://github.com/pranav2012/Linux-Custom-Scripts) | [![GitHub Stars](https://img.shields.io/github/stars/pranav2012/Linux-Custom-Scripts?color=green&logo=github&style=flat)](https://github.com/pranav2012/Linux-Custom-Scripts/stargazers) | [![GitHub PRs](https://img.shields.io/github/issues-pr/pranav2012/Linux-Custom-Scripts?style=flat&logo=github)](https://github.com/pranav2012/Linux-Custom-Scripts/pulls)  | [![GitHub Forks](https://img.shields.io/github/forks/pranav2012/Linux-Custom-Scripts?style=flat&logo=github)](https://github.com/pranav2012/Linux-Custom-Scripts/network/members)   |
 
 <br />
 
@@ -36,19 +36,16 @@
 [<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
-
 <br />
 <br />
 <img align="left" alt="pranav2012's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pranav2012&show_icons=true&hide_border=true" />
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 ### Connect with me:
 
