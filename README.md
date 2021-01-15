@@ -42,7 +42,8 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 <br />
 <br />
-<img align="left" alt="pranav2012's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pranav2012&show_icons=true&hide_border=true" />
+
+![Pranav's github stats](https://github-readme-stats.vercel.app/api?username=pranav2012&show_icons=true&theme=radical)
 
 <br><br><br><br><br><br><br><br><br>
 
