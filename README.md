@@ -45,7 +45,7 @@
 
 ![Pranav's github stats](https://github-readme-stats.vercel.app/api?username=pranav2012&show_icons=true&theme=radical)
 
-<br><br><br><br><br><br><br><br><br>
+<br/><br/>
 
 ### Connect with me:
 
