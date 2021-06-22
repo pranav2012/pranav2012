@@ -43,7 +43,18 @@
 <br />
 <br />
 
-![Pranav's github stats](https://github-readme-stats.vercel.app/api?username=pranav2012&show_icons=true&theme=radical)
+<p align="left">
+  <img width=900 src="https://github-profile-trophy.vercel.app/?username=pranav2012&column=7&theme=gruvbox&no-frame=true" />
+</p>
+
+<p align="left">
+  <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=pranav2012&theme=xcode" />
+</p>
+
+<p align="left">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pranav2012&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" /> 
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pranav2012&theme=tokyonight" />
+</p>
 
 <br/><br/>
 
