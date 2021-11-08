@@ -4,8 +4,6 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/pranav2012) &nbsp; [![Visitors](https://visitor-badge.glitch.me/badge?page_id=pranav2012.visitor-badge)](https://github.com/pranav2012) &nbsp; [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/pranav2012)
 
-<br />
-
 ## I'm Student, Developer, and a Cyber Security enthusiast!
 - 🔭 I’m currently working on a [Project][website_Projects]!
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -22,8 +20,6 @@
 |-------------|-------------------|---|---|
 | [**PythonFest**](https://github.com/pranav2012/Python-fest2020) | [![GitHub Stars](https://img.shields.io/github/stars/pranav2012/Python-fest2020?color=green&logo=github&style=flat)](https://github.com/pranav2012/Python-fest2020/stargazers) | [![GitHub PRs](https://img.shields.io/github/issues-pr/pranav2012/Python-fest2020?style=flat&logo=github)](https://github.com/pranav2012/Python-fest2020/pulls)  | [![GitHub Forks](https://img.shields.io/github/forks/pranav2012/Python-fest2020?style=flat&logo=github)](https://github.com/pranav2012/Python-fest2020/network/members)  |
 | [**Linux Custom Scripts**](https://github.com/pranav2012/Linux-Custom-Scripts) | [![GitHub Stars](https://img.shields.io/github/stars/pranav2012/Linux-Custom-Scripts?color=green&logo=github&style=flat)](https://github.com/pranav2012/Linux-Custom-Scripts/stargazers) | [![GitHub PRs](https://img.shields.io/github/issues-pr/pranav2012/Linux-Custom-Scripts?style=flat&logo=github)](https://github.com/pranav2012/Linux-Custom-Scripts/pulls)  | [![GitHub Forks](https://img.shields.io/github/forks/pranav2012/Linux-Custom-Scripts?style=flat&logo=github)](https://github.com/pranav2012/Linux-Custom-Scripts/network/members)   |
-
-<br />
 
 ### Languages and Tools:
 
@@ -56,7 +52,7 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pranav2012&theme=tokyonight" />
 </p>
 
-<br/><br/>
+<a href="https://www.buymeacoffee.com/pranavagr" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 ### Connect with me:
 
@@ -65,8 +61,6 @@
 [<img align="left" alt="pranav2012 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="pranav2012 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="pranav2012 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 
 <p align="center"><br><a href="#hugs-projects-by-pranav2012--">:top:</a><br><sup><strong>Show <a href="https://github.com/pranav2012?tab=repositories">some</a>&nbsp;:heart:&nbsp;by starring some of repositories!<strong></sup><br><br><a href="https://github.com/pranav2012/"><img src="https://img.shields.io/github/followers/pranav2012.svg?label=Follow%20@pranav2012&style=social"> </a><br></p>
 
