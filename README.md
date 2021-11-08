@@ -40,10 +40,6 @@
 <br />
 
 <p align="left">
-  <img width=900 src="https://github-profile-trophy.vercel.app/?username=pranav2012&column=7&theme=gruvbox&no-frame=true" />
-</p>
-
-<p align="left">
   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=pranav2012&theme=xcode" />
 </p>
 
