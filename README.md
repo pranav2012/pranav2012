@@ -65,5 +65,5 @@
 [youtube]: https://www.youtube.com/channel/UCNonLPXZE_Cl5rhKGYtH19Q
 [instagram]: https://www.instagram.com/pranav.agr/
 [linkedin]: https://www.linkedin.com/in/pranav-agarwal-579363166/
-[website_projects]: https://pranavportfolio.netlify.com/#projects
+[website_projects]: https://portfolio-pranav2012.vercel.app/works
 [webdevplaylist]: https://pranavportfolio.netlify.com/#about
