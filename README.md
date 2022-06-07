@@ -1,4 +1,4 @@
-### Hey, there I'm Pranav - aka [pranav2012][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey, there I'm Pranav - aka [pranav2012][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="18px">
 
 <br />
 
