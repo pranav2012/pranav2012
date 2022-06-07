@@ -11,10 +11,6 @@
 
 <br />
 
-<img src="GitHub.png" width="500"/>
-
-<br />
-
 
 |      Project :octocat:  |     Stars :star:   | Open PRs :bell:  | Forks :fire:  |
 |-------------|-------------------|---|---|
