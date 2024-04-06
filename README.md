@@ -9,7 +9,8 @@
 
 - ❤️ **travel + code is <3**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pranav2012&show_icons=true&locale=en&theme=tokyonight" alt="pranav2012" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranav2012&theme=tokyonight" alt="pranav2012" /></p>
+<p align="left"><img width="46%"  src="https://github-readme-stats.vercel.app/api?username=pranav2012&show_icons=true&locale=en&theme=tokyonight" alt="pranav2012" /> <img width="49%" 
+ src="https://github-readme-streak-stats.herokuapp.com/?user=pranav2012&theme=tokyonight" alt="pranav2012" /></p>
 
 <h6 align="left">Connect with me:</h6>
 <p align="left">
