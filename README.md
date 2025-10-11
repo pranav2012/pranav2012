@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Pranav</h1>
-<h3>frontend engineer from India</h3>
+<h3>software dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranav2012&label=Profile%20views&color=0e75b6&style=flat" alt="pranav2012" /> 
   <a href="https://github.com/pranav2012/"><img src="https://img.shields.io/github/followers/pranav2012.svg?label=Follow%20@pranav2012&style=social"/> </a>
