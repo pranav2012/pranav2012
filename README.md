@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranav</h1>
-<h3 align="center">Senior Software Engineer • Building at the intersection of frontend, payments, and AI</h3>
+<h3 align="center">Everything Frontend</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pranav2012&label=Profile%20views&color=0e75b6&style=flat" alt="pranav2012" />
